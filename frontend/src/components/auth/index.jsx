@@ -2,7 +2,7 @@ import { Button, Card, TextInput, Avatar } from "flowbite-react";
 
 export default function Login() {
   return (
-    <center style={{ marginTop: "250px" }}>
+    <center style={{ marginTop: "100px" }}>
       <Card className="max-w-md">
         <Avatar img="/user.png" rounded size="xl" />
         <h3 className="text-center text-xl mb-4 mt-4">Welcome to Chit-Chat</h3>
